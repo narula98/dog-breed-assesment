@@ -1,4 +1,4 @@
-# Dog Breed application by Vue JS
+# Dog Breed application using Vue JS
 Dog Breed application is a single page web application which allows the user to browse different dog breeds. It is using open source api: https://dog.ceo/dog-api/. On Dashboard it loads random images of dogs and list of dogs and you can search any dog and there sub breeds. If user selects any dog then it loads all the random images of the dog of that breed.
 
 
